@@ -215,4 +215,4 @@ Anti-Twin is available as a full free version, with all features and updates inc
 Don't wait any longer! Download Anti-Twin now and reclaim your hard drive space with the ultimate duplicate file finder.
 
 ---
-**Last updated:** 2026-10-13 07:29:04 UTC
+**Last updated:** 2026-10-13 15:42:19 UTC
